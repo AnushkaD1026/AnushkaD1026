@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AnushkaD1026
-- 👀 I’m interested in coding and programming...
-- 🌱 I’m currently learning C ...
-- 💞️ I’m looking to collaborate on open source...
+- 👋 Hi, I’m @AnushkaD
+- 👀 Interested in coding and programming
+- 🌱 Hands on with python.
+- 💞️ I’m looking to collaborate on open source.
 - 💥 Beginner!! 
 
 <!---
